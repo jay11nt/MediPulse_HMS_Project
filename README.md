@@ -114,7 +114,7 @@ It helps manage Patients, Doctors, Appointments, Billing, Employees, Rooms, Pres
         Invoices        /api/invoices
         Admins	      /api/admins
 
-## 🚦 Future Enhancements
+## 🚦 Future Enhancements :
 
     •	 JWT Authentication & Authorization
     •	 Swagger UI / OpenAPI Docs
@@ -122,8 +122,9 @@ It helps manage Patients, Doctors, Appointments, Billing, Employees, Rooms, Pres
     •	 Patient Portal with Login
     •	 Angular/React Frontend Integration
 
-### 🙏 Credits
-    Built with Team members ❤️ 
+### 🙏 Credits :
+
+Built with Team members ❤️ 
     
    | **Name**       | **GitUsername**  | **Operations** |
 | -------------- | ---------------- | -------------- |
