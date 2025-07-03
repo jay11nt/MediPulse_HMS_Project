@@ -104,13 +104,13 @@ It helps manage Patients, Doctors, Appointments, Billing, Employees, Rooms, Pres
 
 📑 API Endpoints Overview :
 
-        Resource	Endpoint
-        Patients	/api/patients
-        Doctors	/api/doctors
-        Appointments	/api/appointments
-        Rooms	/api/rooms
-        Employees	/api/employees
-        Prescriptions	/api/prescriptions
-        Invoices	/api/invoices
-        Admin	/api/admins
+        Resource	    Endpoint
+        Patients	    /api/patients
+        Doctors	        /api/doctors
+        Appointments    /api/appointments
+        Rooms           /api/rooms
+        Employees       /api/employees
+        Prescriptions   /api/prescriptions
+        Invoices        /api/invoices
+        Admin	        /api/admins
 
