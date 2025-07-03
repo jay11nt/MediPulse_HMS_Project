@@ -77,12 +77,12 @@ It helps manage Patients, Doctors, Appointments, Billing, Employees, Rooms, Pres
 
 ⚙️ Setup Instructions :
 
-1️.  Clone this Repository-
+1️  Clone this Repository-
 
     git clone https://github.com/your-username/hospital-management-system.git
     cd hospital-management-system
 
-2️. Configure MySQL Database-
+2️ Configure MySQL Database-
 
     # application.properties
     spring.datasource.url=jdbc:mysql://localhost:3306/hospital_db
@@ -90,9 +90,9 @@ It helps manage Patients, Doctors, Appointments, Billing, Employees, Rooms, Pres
     spring.datasource.password=your_mysql_password
     spring.jpa.hibernate.ddl-auto=update
 
-3️. Run the Application
+3️ Run the Application
 
-4️. Access API Endpoints-
+4️ Access API Endpoints-
 
     http://localhost:8080/api/patients
     http://localhost:8080/api/doctors
