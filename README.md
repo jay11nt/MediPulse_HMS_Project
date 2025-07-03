@@ -135,3 +135,5 @@ Built with Team members ❤️
 | Mohit          | mohit98uiwizard  | Frontend       |
 
 
+### LEGAL & DISCLAIMER :
+Please refer to COPYING.
