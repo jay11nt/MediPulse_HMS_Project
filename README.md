@@ -135,5 +135,9 @@ Built with Team members ❤️
 | Mohit          | mohit98uiwizard  | Frontend       |
 
 
+Our other sources of communications include:
+
+Email : jayantingle13@gmail.com
+
 ### LEGAL & DISCLAIMER :
 Please refer to COPYING.
