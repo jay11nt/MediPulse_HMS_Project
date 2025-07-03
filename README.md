@@ -125,9 +125,12 @@ It helps manage Patients, Doctors, Appointments, Billing, Employees, Rooms, Pres
 ### 🙏 Credits
     Built with Team members ❤️ 
     
-    by Jayant Ingle
-    Ajay mandhare
-    Vikas dubey
-    harshal dhirde
-    mohit
+   | **Name**       | **GitUsername**  | **Operations** |
+| -------------- | ---------------- | -------------- |
+| Jayant Ingle   | jay11nt          | Backend        |
+| Ajay Mandhare  | ajaymandhare01   | Backend        |
+| Vikas Dubey    | vikasdubey56code | Backend        |
+| Harshal Dhirde | harshald7tech    | Backend        |
+| Mohit          | mohit98uiwizard  | Frontend       |
+
 
