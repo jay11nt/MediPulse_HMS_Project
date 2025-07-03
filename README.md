@@ -56,5 +56,23 @@ It helps manage Patients, Doctors, Appointments, Billing, Employees, Rooms, Pres
 
 •	Version Control: Git, GitHub
 
+## 🗂️ Project Structure :
+
+    hospital-management-system/
+    ├── src/main/java/com/ho
+    │   ├── controller/        # REST Controllers
+    │   ├── service/           # Service Interfaces
+    │   ├── serviceImpl/       # Service Implementations
+    │   ├── repository/        # JPA Repositories
+    │   ├── entity/            # JPA Entities (Doctor, Patient, Room, Appointment, etc)
+    │   ├── dto/               # DTOs (Request & Response)
+    │   ├── sms/               # SMS Service (Twilio)
+    │   ├── exception/         # Global Exception Handling
+    │   └── HospitalManagementApplication.java
+    ├── resources/
+    │   ├── application.properties
+    │   └── data.sql (optional)
+    ├── pom.xml
+    └── README.md
 
 
