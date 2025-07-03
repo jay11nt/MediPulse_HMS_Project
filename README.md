@@ -75,4 +75,42 @@ It helps manage Patients, Doctors, Appointments, Billing, Employees, Rooms, Pres
     ├── pom.xml
     └── README.md
 
+⚙️ Setup Instructions :
+
+1️.  Clone this Repository-
+
+    git clone https://github.com/your-username/hospital-management-system.git
+    cd hospital-management-system
+
+2️. Configure MySQL Database-
+
+    # application.properties
+    spring.datasource.url=jdbc:mysql://localhost:3306/hospital_db
+    spring.datasource.username=your_mysql_username
+    spring.datasource.password=your_mysql_password
+    spring.jpa.hibernate.ddl-auto=update
+
+3️. Run the Application
+
+4️. Access API Endpoints-
+
+    http://localhost:8080/api/patients
+    http://localhost:8080/api/doctors
+    http://localhost:8080/api/appointments
+    http://localhost:8080/api/invoices
+    http://localhost:8080/api/rooms
+    http://localhost:8080/api/employees
+    http://localhost:8080/api/prescriptions
+
+📑 API Endpoints Overview :
+
+        Resource	Endpoint
+        Patients	/api/patients
+        Doctors	/api/doctors
+        Appointments	/api/appointments
+        Rooms	/api/rooms
+        Employees	/api/employees
+        Prescriptions	/api/prescriptions
+        Invoices	/api/invoices
+        Admin	/api/admins
 
