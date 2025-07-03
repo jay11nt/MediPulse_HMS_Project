@@ -115,3 +115,13 @@ It helps manage Patients, Doctors, Appointments, Billing, Employees, Rooms, Pres
         Admins	      /api/admins
 
 ## 🚦 Future Enhancements
+
+    •	 JWT Authentication & Authorization
+    •	 Swagger UI / OpenAPI Docs
+    •	 Role-based Access Control (RBAC)
+    •	 Patient Portal with Login
+    •	 Angular/React Frontend Integration
+
+### 🙏 Credits
+Built with ❤️ by Jayant Ingle
+
