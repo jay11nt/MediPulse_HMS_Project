@@ -123,5 +123,6 @@ It helps manage Patients, Doctors, Appointments, Billing, Employees, Rooms, Pres
     •	 Angular/React Frontend Integration
 
 ### 🙏 Credits
-Built with ❤️ by Jayant Ingle
+Built with Team members ❤️ by Jayant Ingle
+                               Ajay mandhare
 
