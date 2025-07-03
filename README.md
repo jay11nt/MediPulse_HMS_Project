@@ -106,12 +106,12 @@ It helps manage Patients, Doctors, Appointments, Billing, Employees, Rooms, Pres
 
         Resource	    Endpoint
         Patients	    /api/patients
-        Doctors	       /api/doctors
+        Doctors	      /api/doctors
         Appointments    /api/appointments
         Rooms           /api/rooms
         Employees       /api/employees
         Prescriptions   /api/prescriptions
         Invoices        /api/invoices
-        Admin	       /api/admins
+        Admins	      /api/admins
 
 ## 🚦 Future Enhancements
