@@ -122,6 +122,12 @@ It helps manage Patients, Doctors, Appointments, Billing, Employees, Rooms, Pres
     •	 Patient Portal with Login
     •	 Angular/React Frontend Integration
 
+## DB Schema :
+
+![DB Schema SQL](https://github.com/user-attachments/assets/c6a23647-8907-4824-a4b4-85a705135a7c)
+
+
+
 ### 🙏 Credits :
 
 Built with Team members ❤️ 
@@ -135,7 +141,7 @@ Built with Team members ❤️
 | Mohit          | mohit98uiwizard  | Frontend       |
 
 
-Our other sources of communications include:
+• Our other sources of communications include:
 
 Email : jayantingle13@gmail.com
 
