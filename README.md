@@ -122,10 +122,15 @@ It helps manage Patients, Doctors, Appointments, Billing, Employees, Rooms, Pres
     •	 Patient Portal with Login
     •	 Angular/React Frontend Integration
 
+
+## ER Diagram :
+![ER diagram](https://github.com/user-attachments/assets/b92607ea-dee2-4425-a5a6-f654b0f901e9)
+
 ## DB Schema :
+![DB Schema SQL1](https://github.com/user-attachments/assets/b7c389b7-d060-4262-b125-facc48970da5)
 
-![DB Schema SQL](https://github.com/user-attachments/assets/c6a23647-8907-4824-a4b4-85a705135a7c)
-
+## Flow diagram :
+![flow 1](https://github.com/user-attachments/assets/2ef7cbee-f970-419e-be95-83ebf1760d6f)
 
 
 ### 🙏 Credits :
@@ -141,9 +146,9 @@ Built with Team members ❤️
 | Mohit          | mohit98uiwizard  | Frontend       |
 
 
-• Our other sources of communications include:
+• Our other sources of communication include:
 
-Email : jayantingle13@gmail.com
+Email: jayantingle13@gmail.com
 
 ### LEGAL & DISCLAIMER :
 Please refer to COPYING.
