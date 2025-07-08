@@ -140,7 +140,7 @@ Built with Team members ❤️
    | **Name**       | **GitUsername**  | **Operations** |
 | -------------- | ---------------- | -------------- |
 | Jayant Ingle   | jay11nt          | Backend        |
-| Ajay Mandhare  | ajaymandhare01   | Backend        |
+| Ajay Mandhare  | ajaymandhare93   | Backend        |
 | Vikas Dubey    | vikasdubey56code | Backend        |
 | Harshal Dhirde | harshald7tech    | Backend        |
 | Mohit          | mohit98uiwizard  | Frontend       |
