@@ -5,7 +5,7 @@ The Developer's Team builds the system for the hospital’s internal use.
 A comprehensive Hospital Management System built using Java Spring Boot + Hibernate + MySQL with clean architecture and layered structure — designed for real-world hospital operations.
 It helps manage Patients, Doctors, Appointments, Billing, Employees, Rooms, Prescriptions, and more.
 
-## ✨ Features :
+## ✨ Features : 
 
 ✅ Admin Panel
 
